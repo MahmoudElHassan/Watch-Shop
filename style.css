@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+Header{
+    margin: 40px;
+}
+
+.card-deck .card img{
+    width: 80%;
+}
+
+.container .row img{
+    display: flex;
+    justify-content: space-between;
+    width: 109%;    
+    padding: 11px;
+    margin: 9px;
+}
+
+.container .row .large{
+    height: 93%;
+}
+
+.container .row .med{
+    height: 93%;
+    margin-left: 25px;
+}
+
+.container .row .left{
+    height: 45%;
+}
+
+
+.cart .row .img-container{
+    border-radius: 70%;
+    border-bottom: red solid;
+}
+
+.cart .row{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    width: 70%;
+    margin-left: 200px;
+}
+
+.cart .Title{
+    display: flex;
+    justify-content: center;
+  
+
+}
